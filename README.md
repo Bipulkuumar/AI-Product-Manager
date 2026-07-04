@@ -3,6 +3,8 @@
 
 A Final Year AIML Project — live, deployable, and usable in under 30 minutes.
 
+🌟 **Live Demo:** [https://ai-appuct-manager-uhkygyapuazmcswjshrsmj.streamlit.app/](https://ai-appuct-manager-uhkygyapuazmcswjshrsmj.streamlit.app/)
+
 ---
 
 ## 🚀 Run Locally (5 minutes)
